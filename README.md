@@ -164,6 +164,7 @@
  * Barbecue Hut Pakistani Grill
 
 ## Italian:
+ * De Nardi / La Grotta
  * Buccacino’s Cucina Italiana
  * Bellissimo Restaurant & Lounge
  * Vera Pizzeria
